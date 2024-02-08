@@ -1,9 +1,5 @@
 # OSINT Resources for Root66
 
-
-###  Unless you have a contract and are being paid for it
-
-
 # Misc Places to look
 - Social Media
 	- Facebook
