@@ -45,6 +45,6 @@
 - [haveibeenpwned](https://haveibeenpwned.com/) : Check stuffs against breach data
 - [namechk.com](https://namechk.com/) : Check if a username is used on social medias
 
-# Website Tech Profiling
+## Website Tech Profiling
 - [BuiltWith](https://builtwith.com/) : Set what a website is built with without interacting with it
 - [Wappalyzer](https://www.wappalyzer.com) : Browser extension for a quick check of the tech stack a website is using
